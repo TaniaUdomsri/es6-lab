@@ -1,6 +1,6 @@
 {
-  "name": "chrome-es2015-codelab",
-  "description": "ES2015 Codelab",
+  "name": "es6-lab",
+  "description": "es6-lab",
   "license": "Apache-2.0",
   "devDependencies": {
     "babel-cli": "^6.26.0",
